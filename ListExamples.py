@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 21 16:03:00 2020
-
+The file inlcudes examples of Python List commands
 @author: Bilgin Altundas
 """
 import numpy as np
